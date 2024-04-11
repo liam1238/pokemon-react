@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import PokemonList from "./PokemonList";
 import Pagination from "./Pagination";
 import axios from "axios";
+import './App.css';
 
 
 function App() {
